@@ -1,0 +1,12 @@
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.exe.config
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.pdb
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\bin\x86\Debug\Geckofx-Core.dll
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\bin\x86\Debug\Geckofx-Winforms.dll
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\bin\x86\Debug\Geckofx-Core.pdb
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\bin\x86\Debug\Geckofx-Winforms.pdb
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Giridhar\source\repos\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.pdb
